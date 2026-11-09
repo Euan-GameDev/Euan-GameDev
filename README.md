@@ -17,9 +17,12 @@
 ## Latest Projects
 
 ### Deciduem - Action-Puzzle Game based around the four seasons!
+#### I was the sole programmer and I used UE5 and C++ heavily utilising GAS (gameplay ability system) and level streaming!
 [<img width="960" height="530" alt="image" src="https://github.com/user-attachments/assets/be8f4ca4-f0e5-4ac9-a2d0-7cc607177747" />](https://sablefables.itch.io/deciduem)
 
-### Terrain Generator Plugin - Unreal Engine 5.4.4, C++
+### Terrain Generator Plugin - Two week project made in UE5 C++
+#### This is my modular terrain generator plugin that uses modified simplex noise to create worlds! 
+#### Features multi threading for increased performance and dynamic loading.
 [<img width="480" height="300" alt="SnowyMountains" src="https://github.com/user-attachments/assets/2789458c-e530-4a4d-aadc-934c38ca3f1c" />](https://lnkd.in/p/gKgVJHsc)
 [<img width="480" height="300" alt="Mesa" src="https://github.com/user-attachments/assets/36897941-c32f-4e88-a2a4-18a7f3632252" />](https://lnkd.in/p/gKgVJHsc)
 
