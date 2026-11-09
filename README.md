@@ -17,10 +17,10 @@
 ## Latest Projects
 
 ### Deciduem - Action-Puzzle Game based around the four seasons!
-[<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/be8f4ca4-f0e5-4ac9-a2d0-7cc607177747" />](https://sablefables.itch.io/deciduem)
+[<img width="960" height="530" alt="image" src="https://github.com/user-attachments/assets/be8f4ca4-f0e5-4ac9-a2d0-7cc607177747" />](https://sablefables.itch.io/deciduem)
 
 ### Terrain Generator Plugin - Unreal Engine 5.4.4, C++
-[<img width="1280" height="710" alt="SnowyMountains" src="https://github.com/user-attachments/assets/2789458c-e530-4a4d-aadc-934c38ca3f1c" />](https://lnkd.in/p/gKgVJHsc)
-[<img width="1417" height="788" alt="Mesa" src="https://github.com/user-attachments/assets/36897941-c32f-4e88-a2a4-18a7f3632252" />](https://lnkd.in/p/gKgVJHsc)
+[<img width="480" height="300" alt="SnowyMountains" src="https://github.com/user-attachments/assets/2789458c-e530-4a4d-aadc-934c38ca3f1c" />](https://lnkd.in/p/gKgVJHsc)
+[<img width="480" height="300" alt="Mesa" src="https://github.com/user-attachments/assets/36897941-c32f-4e88-a2a4-18a7f3632252" />](https://lnkd.in/p/gKgVJHsc)
 
 
