@@ -23,7 +23,7 @@
 ### Terrain Generator Plugin - Two week project made in UE5 C++
 #### This is my modular terrain generator plugin that uses modified simplex noise to create worlds! 
 #### Features multi threading for increased performance and dynamic loading.
-[<img width="420" height="270" alt="SnowyMountains" src="https://github.com/user-attachments/assets/2789458c-e530-4a4d-aadc-934c38ca3f1c" />](https://lnkd.in/p/gKgVJHsc)
-[<img width="420" height="270" alt="Mesa" src="https://github.com/user-attachments/assets/36897941-c32f-4e88-a2a4-18a7f3632252" />](https://lnkd.in/p/gKgVJHsc)
+[<img width="420" height="270" alt="SnowyMountains" src="https://github.com/user-attachments/assets/2789458c-e530-4a4d-aadc-934c38ca3f1c" />](https://github.com/Euan-GameDev/Terrain-Generator-Plugin)
+[<img width="420" height="270" alt="Mesa" src="https://github.com/user-attachments/assets/36897941-c32f-4e88-a2a4-18a7f3632252" />](https://github.com/Euan-GameDev/Terrain-Generator-Plugin)
 
 
