@@ -1,7 +1,8 @@
 
 ## Hi, I'm Euan!
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://www.svgrepo.com/show/134579/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/euanguthriedev/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.svgrepo.com/show/134579/linkedin.svg" style="padding-right:0px;" />](https://www.linkedin.com/in/euanguthriedev/) 
+[<img align="left" alt="itch.io" width="33px" src="https://github.com/user-attachments/assets/88e1d498-9abd-473c-a5f4-9f4e25dbd817" style="padding-right:0px;" />](https://euangdev.itch.io)
 <br />
 ### I'm a Game Programmer based in Sydney!
  - I'm currently working on [Deciduem](https://sablefables.itch.io/deciduem) as the team programmer! 🍂
